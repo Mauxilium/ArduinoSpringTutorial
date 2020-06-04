@@ -1,2 +1,2 @@
 # ArduinoSpringTutorial
-Example project to verify ArduinoSpring features
+Example project used to verify ArduinoSpring features
